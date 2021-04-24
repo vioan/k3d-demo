@@ -1,5 +1,7 @@
 # k3d-demo
 
+YOUTUBE VIDEO: https://www.youtube.com/watch?v=hMr3prm9gDM
+
 ## Requirements
 
 - [`docker`](https://docs.docker.com/get-docker/)
